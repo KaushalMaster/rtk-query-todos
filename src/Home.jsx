@@ -132,7 +132,9 @@ export default function Home() {
           )}
         </div>
       </div>
-      <Link to="contact" className="text-gray-800 hover:text-gray-400 absolute">Contact</Link>
+      <Link to="contact" className="text-gray-800 hover:text-gray-400 absolute">
+        Contact
+      </Link>
     </div>
   );
 }
