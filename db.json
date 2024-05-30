@@ -16,14 +16,19 @@
       "completed": true
     },
     {
-      "id": 5,
-      "value": "Exercise",
-      "completed": false
-    },
-    {
       "id": 6,
       "value": "Complete Redux",
       "completed": false
+    },
+    {
+      "value": "add",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "value": "h",
+      "completed": false,
+      "id": 8
     }
   ]
 }
